@@ -6,7 +6,17 @@ Create symlinks:
 
     ln -s ~/.vim/vimrc ~/.vimrc
 
-Installed plugins
+Initialize and update registered submodules after clone:
+
+    cd ~/.vim
+    git submodule init
+    git submodule update
+
+To upgrade all submodules:
+
+    git submodule foreach git pull origin master
+
+Installed plugins:
 
 - https://github.com/tpope/vim-pathogen
 - https://github.com/itchyny/lightline.vim
