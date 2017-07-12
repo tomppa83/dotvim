@@ -111,6 +111,7 @@ set laststatus=2
 " hide mode information from status line
 set noshowmode
 let g:lightline = {
+      \ 'colorscheme': 'wombat',
       \ 'active': {
       \   'left': [ [ 'mode', 'paste' ],
       \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ],
