@@ -1,0 +1,15 @@
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/mru.vim"]
+	path = bundle/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git
+[submodule "bundle/robotframework.vim"]
+	path = bundle/robotframework.vim
+	url = https://github.com/mfukar/robotframework-vim.git
+[submodule "bundle/syntastic.vim"]
+	path = bundle/syntastic.vim
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/vim-fugitive.vim"]
+	path = bundle/vim-fugitive.vim
+	url = https://github.com/tpope/vim-fugitive.git
