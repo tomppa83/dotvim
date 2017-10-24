@@ -6,6 +6,8 @@ call pathogen#infect()
 
 " enable syntax processing
 syntax enable
+" Enable groovy highlight for Jenkinsfiles
+au BufNewFile,BufRead Jenkinsfile setf groovy
 
 " enable filetype plugins
 filetype indent plugin on
