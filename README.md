@@ -13,10 +13,13 @@ Initialize and update registered submodules after clone:
     git submodule update
 
 To upgrade all submodules:
+
 git 1.8.2 -> (the option --remote was added to support updating to latest tips of remote branches)
+
     git submodule update --recursive --remote
 
 git 1.6.1 ->
+
     git submodule foreach git pull origin master
 
 Installed plugins:
