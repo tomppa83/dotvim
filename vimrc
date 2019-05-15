@@ -8,6 +8,8 @@ call pathogen#infect()
 syntax enable
 " Enable groovy highlight for Jenkinsfiles
 au BufNewFile,BufRead Jenkinsfile setf groovy
+" Enable jinja highlight for jinja files
+au BufNewFile,BufRead *.j2 set ft=jinja
 
 " enable filetype plugins
 filetype indent plugin on
