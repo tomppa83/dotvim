@@ -28,6 +28,6 @@ Installed plugins:
 - https://github.com/itchyny/lightline.vim
 - https://github.com/vim-scripts/mru.vim
 - https://github.com/vim-syntastic/syntastic
-- https://github.com/mfukar/robotframework-vim
+- https://github.com/tomppa83/robotframework-vim
 - https://github.com/tpope/vim-fugitive
 - https://github.com/airblade/vim-gitgutter
