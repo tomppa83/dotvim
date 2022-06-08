@@ -16,3 +16,6 @@
 [submodule "bundle/robotframework-vim"]
 	path = bundle/robotframework-vim
 	url = https://github.com/tomppa83/robotframework-vim.git
+[submodule "bundle/vim-terraform"]
+	path = bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git

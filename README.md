@@ -31,3 +31,4 @@ Installed plugins:
 - https://github.com/tomppa83/robotframework-vim
 - https://github.com/tpope/vim-fugitive
 - https://github.com/airblade/vim-gitgutter
+- https://github.com/hashivim/vim-terraform
